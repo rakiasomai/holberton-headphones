@@ -1,2 +1,0 @@
-0x0D-JQuery_advanced
-HOLBERTON
